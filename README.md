@@ -1,4 +1,4 @@
-# Unit-7-Data-analysis-and-design
+# OCR Unit 7 Data analysis and design
 Planning and materials for OCR Cambridge Technical : Unit 7 : Data analysis and design
 
 ## UNIT AIM
