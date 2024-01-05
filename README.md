@@ -37,13 +37,13 @@ The Learner will:
 
 Learners must be taught:
 
-#### 1.1 Data types, i.e.:
+#### [1.1 Data types](/content/1.1%20Data%20types.md), i.e.:
 * qualitative
 * quantitative
 * structured
 * unstructured
 
-#### 1.2 Stages of data analysis, i.e.:
+#### [1.2 Stages of data analysis](/content/1.2%20Stages%20of%20data%20analysis.md), i.e.:
 * investigate information requirements (e.g. market share,
 particulates in the air, testing of new drugs)
 * data collection (e.g. observations, interviews, review of existing
@@ -57,7 +57,7 @@ interpreting, correlation)
 * presentation of findings (e.g. tables, charts, graphs, dashboard,
 reports)
 
-#### 1.3 Importance of accurately defining information requirements, e.g.:
+#### [1.3 Importance of accurately defining information requirements](/content/1.3%20Importance%20of%20accurately%20defining%20information%20requirements.md), e.g.:
 * prevents time wasting
 * aids planning of:
   * data capture
@@ -68,21 +68,21 @@ reports)
 
 ### 2. Be able to investigate client requirements for data analysis
 
-#### 2.1 Investigate information requirements 
+#### [2.1 Investigate information requirements](/content/2.1%20Investigate%20information%20requirements%20.md) 
 (e.g. business intelligence,
 scientific research, medical research, political)
 
-#### 2.2 Techniques 
+#### [2.2 Techniques](/content/2.2%20Techniques%20.md) 
 (e.g. holding focus groups, preparing and distributing
 questionnaires and surveys to stakeholders, analysing current
 documents)
 
-#### 2.3 Qualitative data analysis, i.e.:
+#### [2.3 Qualitative data analysis](/content/2.3%20Qualitative%20data%20analysis.md), i.e.:
 * typology (e.g. activities, actions, relationships)
 * event analysis
 * logical analysis (e.g. flow charts, flow diagrams)
 
-#### 2.4 Quantitative data analysis i.e.:
+#### [2.4 Quantitative data analysis](/content/2.4%20Quantitative%20data%20analysis.md) i.e.:
 * mean
 * median
 * standard deviation
@@ -90,7 +90,7 @@ documents)
 
 ### 3. Be able to develop data design solutions to meet business requirements
 
-#### 3.1 Levels of data model design, i.e.:
+#### [3.1 Levels of data model design](/content/3.1%20Levels%20of%20data%20model%20design.md), i.e.:
 * conceptual: relationship between entities
 * enterprise: unique business requirements
 * logical: specific entities, attributes and relationship in a business
@@ -98,7 +98,7 @@ function
 * physical: application and database specific implementation of
 the logical data model
 
-#### 3.2 Phases of logical data modelling, i.e.:
+#### [3.2 Phases of logical data modelling](/content/3.2%20Phases%20of%20logical%20data%20modelling.md), i.e.:
 
 * structure – set of rules (e.g. entities, attributes, relationships,
 queries)
@@ -108,7 +108,7 @@ content)
 
 ### 4. Be able to present data analysis and design solutions to stakeholders
 
-#### 4.1 Data design documentation, e.g.:
+#### [4.1 Data design documentation](/content/4.1%20Data%20design%20documentation.md), e.g.:
 * data flow diagrams (DFDs)
 * information flow charts
 * entity attribute relationship diagram (EARD)
@@ -116,14 +116,14 @@ content)
 * events
 * entity life history (ELH)
 
-#### 4.2 Presentation of solution, e.g.:
+#### [4.2 Presentation of solution](/content/4.2%20Presentation%20of%20solution.md), e.g.:
 * reflects all aspects of design
 * can be understood by audience (e.g. level of technical jargon
 used)
 * format (e.g. report or presentation supported by diagrams or
 models)
 
-#### 4.3 Evaluation of design solution 
+#### [4.3 Evaluation of design solution ](/content/4.3%20Evaluation%20of%20design%20solution%20.md)
 (e.g. meets business requirements,
 achievable, manageable, extendable)
 
@@ -141,7 +141,7 @@ must show that, in addition to the pass
 and merit criteria, the candidate is able
 to:
 
-### LO1. Understand the purpose and stages of data analysis and design
+### [LO1](/content/LO1.md). Understand the purpose and stages of data analysis and design
 
 #### P1:
 Explain the types of data that can be
@@ -158,7 +158,7 @@ Summarise the stages of data analysis
 Fundamentals of IT, Unit 2 Global
 information)
 
-### LO2. Be able to investigate client requirements for data analysis
+### [LO2](/content/LO2.md). Be able to investigate client requirements for data analysis
 
 #### P3:
 Establish the data analysis and design
@@ -174,7 +174,7 @@ specified business requirement using
 different qualitative and quantitative
 data analysis methods
 
-### LO3. Be able to develop data design solutions to meet business requirements.
+### [LO3](/content/LO3.md). Be able to develop data design solutions to meet business requirements.
 
 #### P5:
 Create the outline scope of the data
@@ -185,7 +185,8 @@ security)
 #### D1:
 Construct the logical data model for
 the specified business requirement
-### LO4. Be able to present data analysis and design solutions to stakeholders
+
+### [LO4](/content/LO4.md). Be able to present data analysis and design solutions to stakeholders
 #### P6:
 Prepare the data design
 documentation for a presentation to
@@ -199,7 +200,7 @@ against the original specified business
 requirement
 
 ## ASSESSMENT GUIDANCE
-### LO1 Understand the purpose and stages of data analysis and design
+### [LO1](/content/LO1.md) Understand the purpose and stages of data analysis and design
 
 #### P1 
 
@@ -212,7 +213,8 @@ effective data. This could be presented as a presentation with speaker notes, a 
 Learners could use actual examples to highlight the importance of recognising the information requirements of a specific business need prior to data
 collection. Research may identify only issues arising from poor requirements planning but learners would be able to use such examples to emphasise the
 importance of accurately identifying requirements. This may take the form of a report or a presentation with speaker notes or a video presentation.
-### LO2 Be able to investigate client requirements for data analysis
+
+### [LO2](/content/LO2.md) Be able to investigate client requirements for data analysis
 #### P3 
 Learners should be given a scenario that will enable them to investigate the data requirements for a specified business need. If available, learners
 could provide evidence from a real current project. The evidence should include the business need, the qualitative and quantitative data to be gathered and
@@ -223,7 +225,8 @@ business need. They could produce a brief report or presentation confirming sele
 #### M2 
 Learners should use the quantitative and qualitative techniques selected in P4 to develop the data requirements for the specified business need. The
 outcomes may be presented as annotated diagrams, a report, or a set of completed analysis forms.
-### LO3 Be able to develop data design solutions to meet business requirements
+
+### [LO3](/content/LO3.md) Be able to develop data design solutions to meet business requirements
 #### P5 
 Learners should create content relating to all phases of the data design model. Evidence could include notes of meetings, notes of observations,
 diagrams, a data dictionary, a summary report or presentation with speaker notes.
@@ -231,7 +234,7 @@ diagrams, a data dictionary, a summary report or presentation with speaker notes
 Learners must create a logical data model for the specified business requirement using appropriate terminology and techniques to include EARD, data
 dictionary, entity relationships and queries based on their design model.
 
-### LO4 Be able to present data analysis and design solutions to stakeholders
+### [LO4](/content/LO4.md) Be able to present data analysis and design solutions to stakeholders
 #### P6 
 Learners should create data design documentation to reflect the data analysis and design solution to meet a specified business requirement. They
 must produce a report or presentation that includes relevant diagrams to support and justify their explanations, ideally, using the design from P5 as
