@@ -200,44 +200,46 @@ requirement
 
 ## ASSESSMENT GUIDANCE
 ### LO1 Understand the purpose and stages of data analysis and design
-#### P1: 
+
+#### P1 
+
 Learners should explain the four different data types identified in the teaching content, using appropriate examples they have researched. This can be
 in the form of a guide for new IT learners, a presentation with speaker notes or a report.
-#### P2: 
+#### P2 
 Learners must summarise all of the stages of data analysis to include purpose and relevance of each stage to the production of useful and cost
 effective data. This could be presented as a presentation with speaker notes, a report or a guide to data analysts.
-#### M1: 
+#### M1 
 Learners could use actual examples to highlight the importance of recognising the information requirements of a specific business need prior to data
 collection. Research may identify only issues arising from poor requirements planning but learners would be able to use such examples to emphasise the
 importance of accurately identifying requirements. This may take the form of a report or a presentation with speaker notes or a video presentation.
 ### LO2 Be able to investigate client requirements for data analysis
-#### P3: 
+#### P3 
 Learners should be given a scenario that will enable them to investigate the data requirements for a specified business need. If available, learners
 could provide evidence from a real current project. The evidence should include the business need, the qualitative and quantitative data to be gathered and
 their potential sources. The evidence could be presented in the form of a report, a set of recording documentation and summary or an oral presentation.
-#### P4: 
+#### P4 
 Learners should select different qualitative and quantitative techniques that could be used to obtain the necessary data requirements for a specified
 business need. They could produce a brief report or presentation confirming selection with a brief rationale.
-#### M2: 
+#### M2 
 Learners should use the quantitative and qualitative techniques selected in P4 to develop the data requirements for the specified business need. The
 outcomes may be presented as annotated diagrams, a report, or a set of completed analysis forms.
 ### LO3 Be able to develop data design solutions to meet business requirements
-#### P5: 
+#### P5 
 Learners should create content relating to all phases of the data design model. Evidence could include notes of meetings, notes of observations,
 diagrams, a data dictionary, a summary report or presentation with speaker notes.
-#### D1: 
+#### D1 
 Learners must create a logical data model for the specified business requirement using appropriate terminology and techniques to include EARD, data
 dictionary, entity relationships and queries based on their design model.
 
 ### LO4 Be able to present data analysis and design solutions to stakeholders
-#### P6: 
+#### P6 
 Learners should create data design documentation to reflect the data analysis and design solution to meet a specified business requirement. They
 must produce a report or presentation that includes relevant diagrams to support and justify their explanations, ideally, using the design from P5 as
 supporting evidence and potentially the logical data model in D1.
-#### M3: 
+#### M3 
 Learners must present their findings to the stakeholders. This could be as formal written report with relevant diagrams and a set of clear conclusions
 and recommendations but as it is being presented there should be some narrative, either verbal or written, to underpin the delivery documentation.
-#### D2: 
+#### D2
 Learners should evaluate their logical data design model against the original business requirements and justify any changes from the original
 specification, making further recommendations in the light of the presentation in M3 and any potential feedback they may have received as a result.
 
@@ -254,7 +256,7 @@ reference is in the OCR Guide to Referencing available on our website: http://ww
 
 ## EMPLOYABILITY SKILLS
 
-* Communication P1, P4, P5, P6, M1, M2, M3, D1, D2
+* Communication [P1](#P1), [P4](#P4), P5, P6, M1, M2, M3, D1, D2
 * Problem solving P1, M1, P2, P3, M2, P5, P6, D2
 * Time management P2, P3, P4, P5, P6, M2, M3, D1, D2
 * Critical thinking P1, M1, P2, P3, M2
