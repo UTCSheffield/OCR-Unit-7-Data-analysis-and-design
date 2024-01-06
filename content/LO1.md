@@ -4,7 +4,7 @@
 Explain the types of data that can be
 analysed
 
-Learners should explain the four different data types identified in the teaching content, using appropriate examples they have researched. This can be
+Learners should explain the four different data types identified in the [teaching content](/content%2F1.1%20Data%20types.md), using appropriate examples they have researched. This can be
 in the form of a guide for new IT learners, a presentation with speaker notes or a report.
 
 
