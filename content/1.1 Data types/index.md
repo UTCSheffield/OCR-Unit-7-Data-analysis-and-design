@@ -57,8 +57,7 @@ You need to put lots of effort into getting information out of Unstructured data
 |.           | Qualitative| Quantitative|
 |------------|------------|-------------|
 |Structured | [What is John's Address in our Personnel Records](Personnel%20Records.ipynb) | [How many blue cars did we sell? Sales figures](Sales%20Figures.ipynb) |
-|Unstructured| [What people are tweeting about ChatGPT?](ChatGPT%20Tweets.ipynb) | [How many successful passes in a broadcast Football match?](Football%20Data.ipynb
-) |
+|Unstructured| [What people are tweeting about ChatGPT?](ChatGPT%20Tweets.ipynb) | [How many successful passes in a broadcast Football match?](Football%20Data.ipynb) |
 
 
 ### Personnel Records,
