@@ -2,8 +2,8 @@
 
 | Week | Lesson Date | Lesson |
 |------|-----|-|
-| 1 | 30-01-2024 | [1.1 Data types](/content/1.1%20Data%20types.md) |
-| 2 | 06-02-2024 | [1.2 Stages of data analysis](/content/1.2%20Stages%20of%20data%20analysis.md) |
+| 1 | 23-01-2024 | [1.1 Data types](/content/1.1%20Data%20types.md) |
+| 2 | 30-02-2024 | [1.2 Stages of data analysis](/content/1.2%20Stages%20of%20data%20analysis.md) |
 | 2 | 06-02-2024 | [1.3 Importance of accurately defining information requirements](/content/1.3%20Importance%20of%20accurately%20defining%20information%20requirements.md) | 
 | 2 | 06-02-2024 | [LO1](/content/LO1.md) |
 | 3 | 20-02-2024 | [2.1 Investigate information requirements](/content/2.1%20Investigate%20information%20requirements%20.md) |
