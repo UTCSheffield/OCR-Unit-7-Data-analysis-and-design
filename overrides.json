@@ -10,5 +10,8 @@
           "rank": 50
         }
       ]
-    }
+    },
+  "@deathbeds/jupyterlab-deck:plugin": {
+    "active": true
   }
+}
