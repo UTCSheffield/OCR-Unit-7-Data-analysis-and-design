@@ -37,7 +37,7 @@ The Learner will:
 
 Learners must be taught:
 
-#### [1.1 Data types](/content/1.1.%20Data%20types.ipynb), i.e.:
+#### [1.1 Data types](/content/1.1%20Data%20types/Intro.ipynb), i.e.:
 * qualitative
 * quantitative
 * structured
