@@ -1,9 +1,17 @@
 # LO1 Tasks : Understand the purpose and stages of data analysis and design
 
+## Pre task : Research
+
+Research / find examples of the four different data types identified in the [teaching content](/content%2F1-1%20Data%20types/Intro.ipynb).
+
+Research / find examples to highlight the [importance of accurately identifying information requirements](/content/1-3%20Importance%20of%20accurately%20defining%20information%20requirements.md) of a specific business need prior to data collection. When it went well & when it went bad.
+
+**Assignment in Teams**
+
 ## P1 : Task
 ### What Data Types can be analysed ? : A guide for new IT learners
 
-Explain the four different data types identified in the [teaching content](/content%2F1-1%20Data%20types/Intro.md), using appropriate examples you have researched. The audience is Y9 & 10 Students. 
+Explain the four different data types identified in the [teaching content](/content%2F1-1%20Data%20types/Intro.ipynb), using appropriate examples you have researched. The audience is Y9 & 10 Students. 
 
 ## P2 : Task
 ### The stages of data analysis : A presentation with speaker notes 
@@ -22,9 +30,22 @@ A presentation (with speaker notes) explaining the [importance of accurately ide
 
 
 
+### Examples
+
+These are intros to various subjects, they feature plenty of images and some have videos to inspire interest and engagment.
+
+- [Accounting 101: Accounting Basics for Beginners to Learn](https://blog.hubspot.com/sales/accounting-101)
+- [Introduction to Accounting](https://ncert.nic.in/textbook/pdf/keac101.pdf)
+- [Basic principles of
+Accounting](https://assets.cambridge.org/97805216/80745/excerpt/9780521680745_excerpt.pdf)
+- [Introduction to Python 3](https://realpython.com/python-introduction/)
+- [The Ultimate Python Beginner's Handbook](https://www.freecodecamp.org/news/the-python-guide-for-beginners/)
+- [Mountain Climbing School Manual](https://santiamalpineclub.org/downloads/Mountain.Climbing.School.Manual.pdf)
+- [An Introduction to Sport Climbing](https://www.sebastien-constant.com/wp-content/uploads/2018/04/preview-MOUNTAIN-ESSENTIALS%C2%AE-handbooks-an-introduction-to-sport-climbing.pdf)
+
 ### Suggestions of software / format
 * Webpage (will need to be printable and savable for off line)
-* Word doc / PDF
+* Word doc / PDF 
 
 
 ## A presentation with speaker notes 
