@@ -39,13 +39,13 @@ The Learner will:
 
 Learners must be taught:
 
-#### [1.1 Data types](/content/1.1%20Data%20types/Intro.ipynb), i.e.:
+#### [1.1 Data types](/content/1-1%20Data%20types/Intro.ipynb), i.e.:
 * qualitative
 * quantitative
 * structured
 * unstructured
 
-#### [1.2 Stages of data analysis](/content/1.2%20Stages%20of%20data%20analysis.md), i.e.:
+#### [1.2 Stages of data analysis](/content/1-2%20Stages%20of%20data%20analysis.ipynb), i.e.:
 * investigate information requirements (e.g. market share,
 particulates in the air, testing of new drugs)
 * data collection (e.g. observations, interviews, review of existing
@@ -59,7 +59,7 @@ interpreting, correlation)
 * presentation of findings (e.g. tables, charts, graphs, dashboard,
 reports)
 
-#### [1.3 Importance of accurately defining information requirements](/content/1.3%20Importance%20of%20accurately%20defining%20information%20requirements.md), e.g.:
+#### [1.3 Importance of accurately defining information requirements](/content/1-3%20Importance%20of%20accurately%20defining%20information%20requirements.md), e.g.:
 * prevents time wasting
 * aids planning of:
   * data capture

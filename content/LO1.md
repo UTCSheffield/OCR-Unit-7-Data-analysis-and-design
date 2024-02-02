@@ -13,9 +13,24 @@ effective data. The audience is Y9 & 10 Students.
 
 ## M1 : Task
 ### The importance of accurately identifying information requirements prior to data collection : A presentation with speaker notes 
-A presentation (with speaker notes) explaining the importance of accurately identifying information requirements prior to data collection. Ude actual examples to highlight the importance of recognising the information requirements of a specific business need prior to data collection. 
+A presentation (with speaker notes) explaining the [importance of accurately identifying information requirements](/content/1-3%20Importance%20of%20accurately%20defining%20information%20requirements.md)) prior to data collection. Use actual examples to highlight the importance of recognising the information requirements of a specific business need prior to data collection. 
 
-# Spec : LO1. Understand the purpose and stages of data analysis and design
+
+# The Types of Document
+
+## A guide for new IT learners
+
+
+
+### Suggestions of software / format
+* Webpage (will need to be printable and savable for off line)
+* Word doc / PDF
+
+
+## A presentation with speaker notes 
+
+
+# Spec : LO1 Understand the purpose and stages of data analysis and design
 
 ## P1
 Explain the types of data that can be  analysed
