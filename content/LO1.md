@@ -28,7 +28,9 @@ A presentation (with speaker notes) explaining the [importance of accurately ide
 
 ## A guide for new IT learners
 
+A document or webpage explaining the outline of a subject in simple terms with illustration.
 
+There are simple text based ways of creating these types of documents. Markdown etc.
 
 ### Examples
 
@@ -50,6 +52,9 @@ Accounting](https://assets.cambridge.org/97805216/80745/excerpt/9780521680745_ex
 
 ## A presentation with speaker notes 
 
+PowerPoint is not the only Presentation Software, there are text based ones I like, based on Markdown etc. 
+
+- Speaker Notes 
 
 # Spec : LO1 Understand the purpose and stages of data analysis and design
 
