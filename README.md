@@ -16,8 +16,6 @@ of qualifications due to its relevance in conducting data analysis and design so
 meet business requirements. The unit supports the development of skills, knowledge and
 understanding relevant to the role of a data analyst and the techniques required.
 
-
-
 ## TEACHING CONTENT
 The teaching content in every unit states what has to be taught to ensure that learners are able to
 access the highest grades.
@@ -67,24 +65,23 @@ reports)
   * cleaning and manipulation
   * presentation of results
 
-
 ### 2. Be able to investigate client requirements for data analysis
 
-#### [2.1 Investigate information requirements](/content/2.1%20Investigate%20information%20requirements%20.md) 
+#### [2.1 Investigate information requirements](/content/2-1%20Investigate%20information%20requirements%20.md) 
 (e.g. business intelligence,
 scientific research, medical research, political)
 
-#### [2.2 Techniques](/content/2.2%20Techniques%20.md) 
+#### [2.2 Techniques](/content/2-2%20Techniques%20.md) 
 (e.g. holding focus groups, preparing and distributing
 questionnaires and surveys to stakeholders, analysing current
 documents)
 
-#### [2.3 Qualitative data analysis](/content/2.3%20Qualitative%20data%20analysis.md), i.e.:
+#### [2.3 Qualitative data analysis](/content/2-3%20Qualitative%20data%20analysis.md), i.e.:
 * typology (e.g. activities, actions, relationships)
 * event analysis
 * logical analysis (e.g. flow charts, flow diagrams)
 
-#### [2.4 Quantitative data analysis](/content/2.4%20Quantitative%20data%20analysis.md) i.e.:
+#### [2.4 Quantitative data analysis](/content/2-4%20Quantitative%20data%20analysis.md) i.e.:
 * mean
 * median
 * standard deviation
@@ -92,7 +89,7 @@ documents)
 
 ### 3. Be able to develop data design solutions to meet business requirements
 
-#### [3.1 Levels of data model design](/content/3.1%20Levels%20of%20data%20model%20design.md), i.e.:
+#### [3.1 Levels of data model design](/content/3-1%20Levels%20of%20data%20model%20design.md), i.e.:
 * conceptual: relationship between entities
 * enterprise: unique business requirements
 * logical: specific entities, attributes and relationship in a business
@@ -100,7 +97,7 @@ function
 * physical: application and database specific implementation of
 the logical data model
 
-#### [3.2 Phases of logical data modelling](/content/3.2%20Phases%20of%20logical%20data%20modelling.md), i.e.:
+#### [3.2 Phases of logical data modelling](/content/3-2%20Phases%20of%20logical%20data%20modelling.md), i.e.:
 
 * structure – set of rules (e.g. entities, attributes, relationships,
 queries)
@@ -110,7 +107,7 @@ content)
 
 ### 4. Be able to present data analysis and design solutions to stakeholders
 
-#### [4.1 Data design documentation](/content/4.1%20Data%20design%20documentation.md), e.g.:
+#### [4.1 Data design documentation](/content/4-1%20Data%20design%20documentation.md), e.g.:
 * data flow diagrams (DFDs)
 * information flow charts
 * entity attribute relationship diagram (EARD)
@@ -118,14 +115,14 @@ content)
 * events
 * entity life history (ELH)
 
-#### [4.2 Presentation of solution](/content/4.2%20Presentation%20of%20solution.md), e.g.:
+#### [4.2 Presentation of solution](/content/4-2%20Presentation%20of%20solution.md), e.g.:
 * reflects all aspects of design
 * can be understood by audience (e.g. level of technical jargon
 used)
 * format (e.g. report or presentation supported by diagrams or
 models)
 
-#### [4.3 Evaluation of design solution ](/content/4.3%20Evaluation%20of%20design%20solution%20.md)
+#### [4.3 Evaluation of design solution ](/content/4-3%20Evaluation%20of%20design%20solution%20.md)
 (e.g. meets business requirements,
 achievable, manageable, extendable)
 
@@ -189,17 +186,15 @@ Construct the logical data model for
 the specified business requirement
 
 ### [LO4](/content/LO4.md). Be able to present data analysis and design solutions to stakeholders
+
 #### P6:
-Prepare the data design
-documentation for a presentation to
-stakeholders
+Prepare the data design documentation for a presentation to stakeholders
+
 #### M3:
-Present the data design
-documentation to stakeholders
+Present the data design documentation to stakeholders
+
 #### D2:
-Evaluate the logical data model
-against the original specified business
-requirement
+Evaluate the logical data model against the original specified business requirement
 
 ## ASSESSMENT GUIDANCE
 ### [LO1](/content/LO1.md) Understand the purpose and stages of data analysis and design
@@ -208,47 +203,67 @@ requirement
 
 Learners should explain the four different data types identified in the teaching content, using appropriate examples they have researched. This can be
 in the form of a guide for new IT learners, a presentation with speaker notes or a report.
+
 #### P2 
+
 Learners must summarise all of the stages of data analysis to include purpose and relevance of each stage to the production of useful and cost
 effective data. This could be presented as a presentation with speaker notes, a report or a guide to data analysts.
+
 #### M1 
+
 Learners could use actual examples to highlight the importance of recognising the information requirements of a specific business need prior to data
 collection. Research may identify only issues arising from poor requirements planning but learners would be able to use such examples to emphasise the
 importance of accurately identifying requirements. This may take the form of a report or a presentation with speaker notes or a video presentation.
 
 ### [LO2](/content/LO2.md) Be able to investigate client requirements for data analysis
 #### P3 
+
 Learners should be given a scenario that will enable them to investigate the data requirements for a specified business need. If available, learners
 could provide evidence from a real current project. The evidence should include the business need, the qualitative and quantitative data to be gathered and
 their potential sources. The evidence could be presented in the form of a report, a set of recording documentation and summary or an oral presentation.
+
 #### P4 
+
 Learners should select different qualitative and quantitative techniques that could be used to obtain the necessary data requirements for a specified
 business need. They could produce a brief report or presentation confirming selection with a brief rationale.
+
 #### M2 
+
 Learners should use the quantitative and qualitative techniques selected in P4 to develop the data requirements for the specified business need. The
 outcomes may be presented as annotated diagrams, a report, or a set of completed analysis forms.
 
 ### [LO3](/content/LO3.md) Be able to develop data design solutions to meet business requirements
+
 #### P5 
+
 Learners should create content relating to all phases of the data design model. Evidence could include notes of meetings, notes of observations,
 diagrams, a data dictionary, a summary report or presentation with speaker notes.
+
 #### D1 
+
 Learners must create a logical data model for the specified business requirement using appropriate terminology and techniques to include EARD, data
 dictionary, entity relationships and queries based on their design model.
 
 ### [LO4](/content/LO4.md) Be able to present data analysis and design solutions to stakeholders
+
 #### P6 
+
 Learners should create data design documentation to reflect the data analysis and design solution to meet a specified business requirement. They
 must produce a report or presentation that includes relevant diagrams to support and justify their explanations, ideally, using the design from P5 as
 supporting evidence and potentially the logical data model in D1.
+
 #### M3 
+
 Learners must present their findings to the stakeholders. This could be as formal written report with relevant diagrams and a set of clear conclusions
 and recommendations but as it is being presented there should be some narrative, either verbal or written, to underpin the delivery documentation.
+
 #### D2
+
 Learners should evaluate their logical data design model against the original business requirements and justify any changes from the original
 specification, making further recommendations in the light of the presentation in M3 and any potential feedback they may have received as a result.
 
 ### Feedback to learners: 
+
 you can discuss work-in-progress towards summative assessment with learners to make sure it’s being done in a planned and
 timely manner. It also provides an opportunity for you to check the authenticity of the work. You must intervene if you feel there’s a health and safety risk.
 
@@ -261,40 +276,9 @@ reference is in the OCR Guide to Referencing available on our website: http://ww
 
 ## EMPLOYABILITY SKILLS
 
-* Communication [P1](#P1), [P4](#P4), P5, P6, M1, M2, M3, D1, D2
-* Problem solving P1, M1, P2, P3, M2, P5, P6, D2
-* Time management P2, P3, P4, P5, P6, M2, M3, D1, D2
-* Critical thinking P1, M1, P2, P3, M2
-* Negotiation P2, D2
-* Decision making P1, P2, P3, P4, P5, P6, M1, M2, M3, D1, D2
-
-
-# JupyterLite Demo
-
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
-
-JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
-
-## ✨ Try it in your browser ✨
-
-➡️ **https://jupyterlite.github.io/demo**
-
-![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
-
-## Requirements
-
-JupyterLite is being tested against modern web browsers:
-
-- Firefox 90+
-- Chromium 89+
-
-## Deploy your JupyterLite website on GitHub Pages
-
-Check out the guide on the JupyterLite documentation: https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html
-
-## Further Information and Updates
-
-For more info, keep an eye on the JupyterLite documentation:
-
-- How-to Guides: https://jupyterlite.readthedocs.io/en/latest/howto/index.html
-- Reference: https://jupyterlite.readthedocs.io/en/latest/reference/index.html
+* Communication [P1](#P1), [P4](#P4), [P5](#P5), [P6](#P6), [M1](#M1), [M2](#M2), [M3](#M3), [D1](#D1), D2
+* Problem solving [P1](#P1), [M1](#M1), [P2](#P2), [P3](#P3), [M2](#M2), [P5](#P5), [P6](#P6), D2
+* Time management [P2](#P2), [P3](#P3), [P4](#P4), [P5](#P5), [P6](#P6), [M2](#M2), [M3](#M3), [D1](#D1), D2
+* Critical thinking [P1](#P1), [M1](#M1), [P2](#P2), [P3](#P3), M2
+* Negotiation [P2](#P2), D2
+* Decision making [P1](#P1), [P2](#P2), [P3](#P3), [P4](#P4), [P5](#P5), [P6](#P6), [M1](#M1), [M2](#M2), [M3](#M3), [D1](#D1), [D2](#D2)
