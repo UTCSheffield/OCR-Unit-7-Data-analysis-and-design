@@ -27,9 +27,9 @@
 | | | [LO4 P6 ](/content/LO4.ipynb#p6) |
 | 11 | 22-04-2024 | [4.2 Presentation of solution](/content/4-2%20Presentation%20of%20solution.ipynb) |
 | | | |
-| 12 | 29-04-2024 | Presentation to Eagles - [LO4 M3](/content/LO4.ipynb#m3) |
-| | | |
-| 13 | 06-05-2024 | [4.3 Evaluation of design solution ](/content/4-3%20Evaluation%20of%20design%20solution.ipynb) &  |
+| 12 | 29-04-2024 | Presentation to Eagles |
+| | | [LO4 M3](/content/LO4.ipynb#m3) |
+| 13 | 06-05-2024 | [4.3 Evaluation of design solution ](/content/4-3%20Evaluation%20of%20design%20solution.ipynb)  |
 | | | [LO4 D2](/content/LO4.ipynb#d2) |
 | 14 | 13-05-2024 | Final session & deadline |
 | | | |
