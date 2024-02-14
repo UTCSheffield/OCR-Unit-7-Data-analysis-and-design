@@ -1,5 +1,5 @@
 # Scheme of Work
-
+# Year 12 IT - Unit 7 Data analysis and design			
 | Week | Lesson Date | Lesson |
 |------|-----|-|
 | 1 | 22-01-2024 | [1.1 Data types](/content/1-1%20Data%20types/Intro.ipynb) |
