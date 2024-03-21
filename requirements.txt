@@ -50,3 +50,4 @@ bqplot
 pyoliteutils
 textblob
 seaborn
+folium
