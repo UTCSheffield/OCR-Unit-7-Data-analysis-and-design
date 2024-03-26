@@ -54,3 +54,4 @@ folium
 postcodes_io_api
 jupyterlab-deck
 haversine
+geopy
