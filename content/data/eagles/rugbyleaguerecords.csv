@@ -18,7 +18,7 @@ Season,Match Date,Home Score,Home Team,Away Score,Away Team,Competition,Attendan
 1984-85,"Sunday, 23rd December 1984",50,Salford,16,Sheffield Eagles,League 2,,,
 1984-85,"Wednesday, 26th December 1984",26,Mansfield Marksman,20,Sheffield Eagles,League 2,,,
 1984-85,"Sunday, 30th December 1984",24,Sheffield Eagles,12,Doncaster,League 2,803,"Owlerton Stadium, Sheffield, England",John Kendrew
-1984-85,"Wednesday, 23rd January 1985",14,Swinton,8,Sheffield Eagles,League 2,Burnden Park Bolton  England,Referee:  Unknown,
+1984-85,"Wednesday, 23rd January 1985",14,Swinton,8,Sheffield Eagles,League 2,,Burnden Park Bolton  England,Referee:  Unknown
 1984-85,"Sunday, 3rd February 1985",12,Rochdale Hornets,10,Sheffield Eagles,League 2,,,
 1984-85,"Sunday, 17th February 1985",19,Sheffield Eagles,54,Warrington,Challenge Cup 1 (32),1479,"Owlerton Stadium, Sheffield, England",Derek Fox
 1984-85,"Sunday, 24th February 1985",28,Bridgend,12,Sheffield Eagles,League 2,,,
@@ -74,7 +74,7 @@ Season,Match Date,Home Score,Home Team,Away Score,Away Team,Competition,Attendan
 1986-87,"Sunday, 21st September 1986",14,Fulham,68,Sheffield Eagles,League 2,,,
 1986-87,"Sunday, 28th September 1986",31,Sheffield Eagles,10,Dewsbury,League 2,522,"Owlerton Stadium, Sheffield, England",Gerry Kershaw
 1986-87,"Wednesday, 1st October 1986",12,Sheffield Eagles,9,Huddersfield Barracudas,League 2,686,"Owlerton Stadium, Sheffield, England",Steve Cross
-1986-87,"Sunday, 5th October 1986",46,Swinton,26,Sheffield Eagles,League 2,Station Road Swinton England,Referee:  Unknown,
+1986-87,"Sunday, 5th October 1986",46,Swinton,26,Sheffield Eagles,League 2,,Station Road Swinton England,Referee:  Unknown
 1986-87,"Sunday, 12th October 1986",24,Sheffield Eagles,10,Carlisle,League 2,412,"Owlerton Stadium, Sheffield, England",Ray Tennant
 1986-87,"Sunday, 19th October 1986",22,Runcorn Highfield,4,Sheffield Eagles,League 2,,,
 1986-87,"Sunday, 26th October 1986",14,Sheffield Eagles,32,York,League 2,507,"Owlerton Stadium, Sheffield, England",Geoff Berry
@@ -159,7 +159,7 @@ Season,Match Date,Home Score,Home Team,Away Score,Away Team,Competition,Attendan
 1988-89,"Sunday, 5th February 1989",13,Bramley,9,Sheffield Eagles,League 2,,,
 1988-89,"Sunday, 12th February 1989",20,Sheffield Eagles,32,Oldham,Challenge Cup 2 (16),3636,"Owlerton Stadium, Sheffield, England",John Holdsworth
 1988-89,"Sunday, 19th February 1989",24,Sheffield Eagles,0,Huddersfield,League 2,7740,"Owlerton Stadium, Sheffield, England",Geoff Berry
-1988-89,"Sunday, 26th February 1989",14,Swinton,30,Sheffield Eagles,League 2,Station Road Swinton England,Referee:  Unknown,
+1988-89,"Sunday, 26th February 1989",14,Swinton,30,Sheffield Eagles,League 2,,Station Road Swinton England,Referee:  Unknown
 1988-89,"Sunday, 5th March 1989",25,Sheffield Eagles,26,Doncaster,League 2,2254,"Owlerton Stadium, Sheffield, England",Colin Steele
 1988-89,"Sunday, 12th March 1989",24,Sheffield Eagles,10,Hunslet,League 2,774,"Owlerton Stadium, Sheffield, England",Alex Bowman
 1988-89,"Sunday, 19th March 1989",20,Barrow,24,Sheffield Eagles,League 2,,,
@@ -170,7 +170,7 @@ Season,Match Date,Home Score,Home Team,Away Score,Away Team,Competition,Attendan
 1988-89,"Sunday, 16th April 1989",32,Hunslet,6,Sheffield Eagles,League 2,,,
 1988-89,"Sunday, 23rd April 1989",28,Sheffield Eagles,10,Doncaster,2nd Division Premiership QF,1725,"Owlerton Stadium, Sheffield, England",John Holdsworth
 1988-89,"Sunday, 7th May 1989",6,Barrow,9,Sheffield Eagles,2nd Division Premiership Semi,,,
-1988-89,"Sunday, 14th May 1989",18,Swinton,43,Sheffield Eagles,2nd Division Premiership Final,Neutral Venue: Old Trafford Trafford England,Referee: Robin Whitfield,
+1988-89,"Sunday, 14th May 1989",18,Swinton,43,Sheffield Eagles,2nd Division Premiership Final,,Neutral Venue: Old Trafford Trafford England,Referee: Robin Whitfield
 1989-90,"Sunday, 3rd September 1989",20,Sheffield Eagles,36,St. Helens,League,6200,"Hillsborough, Sheffield, England",John Holdsworth
 1989-90,"Sunday, 10th September 1989",12,Featherstone Rovers,37,Sheffield Eagles,League,,,
 1989-90,"Sunday, 17th September 1989",5,Batley,36,Sheffield Eagles,Yorkshire Cup 1 (16),,,
@@ -186,7 +186,7 @@ Season,Match Date,Home Score,Home Team,Away Score,Away Team,Competition,Attendan
 1989-90,"Sunday, 19th November 1989",14,Sheffield Eagles,34,Bradford Northern,League,2986,"Saltergate, Chesterfield, England",Gerry Kershaw
 1989-90,"Sunday, 26th November 1989",20,Salford,20,Sheffield Eagles,League,,,
 1989-90,"Friday, 1st December 1989",36,Sheffield Eagles,22,Rochdale Hornets,League Cup 1 (32),2307,"Thrum Hall, Halifax, England",Gerry Kershaw
-1989-90,"Sunday, 10th December 1989",6,Swinton,28,Sheffield Eagles,League Cup 2 (16),Station Road Swinton England,Referee:  Unknown,
+1989-90,"Sunday, 10th December 1989",6,Swinton,28,Sheffield Eagles,League Cup 2 (16),,Station Road Swinton England,Referee:  Unknown
 1989-90,"Sunday, 17th December 1989",2,Sheffield Eagles,18,Castleford,League Cup QF,3014,"Saltergate, Chesterfield, England",Colin Morris
 1989-90,"Tuesday, 26th December 1989",15,Hull,6,Sheffield Eagles,League,,,
 1989-90,"Wednesday, 3rd January 1990",20,Sheffield Eagles,30,Featherstone Rovers,League,2756,"Belle Vue, Wakefield, England",Tom Crashley
@@ -730,7 +730,7 @@ Season,Match Date,Home Score,Home Team,Away Score,Away Team,Competition,Attendan
 2006,"Friday, 1st September 2006",52,Sheffield Eagles,0,Blackpool Panthers,League 3,783,"Don Valley Stadium, Sheffield, England",Leon Williamson
 2006,"Sunday, 10th September 2006",16,Hunslet Hawks,48,Sheffield Eagles,League 3,527,,
 2006,"Friday, 22nd September 2006",26,Sheffield Eagles,16,Celtic Crusaders,League 2 Qualifiers QSF,760,"Don Valley Stadium, Sheffield, England",Julian King
-2006,"Sunday, 8th October 2006",35,Sheffield Eagles,10,Swinton Lions,League 2 Qualifiers Final,Neutral Venue: The Halliwell Jones Stadium Warrington England,Referee: Craig Halloran,
+2006,"Sunday, 8th October 2006",35,Sheffield Eagles,10,Swinton Lions,League 2 Qualifiers Final,,Neutral Venue: The Halliwell Jones Stadium Warrington England,Referee: Craig Halloran
 2007,"Sunday, 11th February 2007",54,Featherstone Rovers,22,Sheffield Eagles,National League Cup Qual (32),1209,,
 2007,"Friday, 16th February 2007",18,Sheffield Eagles,20,Doncaster,National League Cup Qual (32),1043,"Don Valley Stadium, Sheffield, England",Robert Hicks
 2007,"Sunday, 25th February 2007",38,Castleford Tigers,12,Sheffield Eagles,National League Cup Qual (32),5108,,
@@ -1144,12 +1144,12 @@ Season,Match Date,Home Score,Home Team,Away Score,Away Team,Competition,Attendan
 2020,"Sunday, 1st March 2020",18,Batley Bulldogs,19,Sheffield Eagles,League 2,,,
 2020,"Sunday, 8th March 2020",28,Bradford Bulls,0,Sheffield Eagles,League 2,,,
 2020,"Sunday, 15th March 2020",34,Sheffield Eagles,18,Workington Town,Challenge Cup 5 (32),323,"Keepmoat Stadium, Doncaster, England",James Vella
-2021,"Friday, 19th March 2021",6,Sheffield Eagles,30,York City Knights,Challenge Cup 1 (64),Keepmoat Stadium Doncaster England,Referee: Tom Grant,
-2021,"Sunday, 4th April 2021",50,Sheffield Eagles,12,Bradford Bulls,League 2,Keepmoat Stadium Doncaster England,Referee: James Vella,
-2021,"Sunday, 18th April 2021",14,York City Knights,20,Sheffield Eagles,League 2,LNER Community Stadium York England,Referee: Gareth Hewer,
-2021,"Sunday, 25th April 2021",24,Newcastle Thunder,16,Sheffield Eagles,League 2,Kingston Park Newcastle England,Referee: James Vella,
-2021,"Saturday, 1st May 2021",20,Sheffield Eagles,20,London Broncos,League 2,Keepmoat Stadium Doncaster England,Referee: Ben Thaler,
-2021,"Friday, 7th May 2021",18,Sheffield Eagles,30,Batley Bulldogs,League 2,Keepmoat Stadium Doncaster England,Referee: Gareth Hewer,
+2021,"Friday, 19th March 2021",6,Sheffield Eagles,30,York City Knights,Challenge Cup 1 (64),,Keepmoat Stadium Doncaster England,Referee: Tom Grant
+2021,"Sunday, 4th April 2021",50,Sheffield Eagles,12,Bradford Bulls,League 2,,Keepmoat Stadium Doncaster England,Referee: James Vella
+2021,"Sunday, 18th April 2021",14,York City Knights,20,Sheffield Eagles,League 2,,LNER Community Stadium York England,Referee: Gareth Hewer
+2021,"Sunday, 25th April 2021",24,Newcastle Thunder,16,Sheffield Eagles,League 2,,Kingston Park Newcastle England,Referee: James Vella
+2021,"Saturday, 1st May 2021",20,Sheffield Eagles,20,London Broncos,League 2,,Keepmoat Stadium Doncaster England,Referee: Ben Thaler
+2021,"Friday, 7th May 2021",18,Sheffield Eagles,30,Batley Bulldogs,League 2,,Keepmoat Stadium Doncaster England,Referee: Gareth Hewer
 2021,"Sunday, 23rd May 2021",18,Sheffield Eagles,50,Featherstone Rovers,League 2,620,"Keepmoat Stadium, Doncaster, England",Aaron Moore
 2021,"Sunday, 30th May 2021",25,Sheffield Eagles,25,Whitehaven,League 2,343,"Keepmoat Stadium, Doncaster, England",Cameron Worsley
 2021,"Sunday, 6th June 2021",46,Halifax Panthers,12,Sheffield Eagles,League 2,734,"The Shay, Halifax, England",Robert Hicks
@@ -1202,7 +1202,7 @@ Season,Match Date,Home Score,Home Team,Away Score,Away Team,Competition,Attendan
 2023,"Friday, 17th February 2023",36,Sheffield Eagles,0,Batley Bulldogs,League 2,878,"Sheffield Olympic Legacy Park, Sheffield, England",James Vella
 2023,"Sunday, 26th February 2023",20,London Broncos,21,Sheffield Eagles,League 2,1175,"Cherry Red Records Stadium, London, England",James Vella
 2023,"Sunday, 5th March 2023",42,Sheffield Eagles,12,Widnes Vikings,League 2,1319,"Sheffield Olympic Legacy Park, Sheffield, England",Liam Rush
-2023,"Sunday, 12th March 2023",12,Siddal,34,Sheffield Eagles,Challenge Cup 3 (128),Siddal Sports and Community Centre Halifax England,Referee: Kevin Moore,
+2023,"Sunday, 12th March 2023",12,Siddal,34,Sheffield Eagles,Challenge Cup 3 (128),,Siddal Sports and Community Centre Halifax England,Referee: Kevin Moore
 2023,"Sunday, 19th March 2023",32,Bradford Bulls,18,Sheffield Eagles,League 2,3004,"Odsal Stadium, Bradford, England",Matt Rossleigh
 2023,"Saturday, 25th March 2023",32,Sheffield Eagles,4,Toulouse Olympique,League 2,959,"Sheffield Olympic Legacy Park, Sheffield, England",Tom Grant
 2023,"Sunday, 2nd April 2023",24,York Knights,22,Sheffield Eagles,Challenge Cup 4 (64),832,"LNER Community Stadium, York, England",James Vella
@@ -1227,10 +1227,10 @@ Season,Match Date,Home Score,Home Team,Away Score,Away Team,Competition,Attendan
 2023,"Sunday, 17th September 2023",18,Widnes Vikings,38,Sheffield Eagles,League 2,2961,"DCBL Stadium, Widnes, England",Scott Mikalauskas
 2023,"Sunday, 24th September 2023",16,Sheffield Eagles,17,Bradford Bulls,League 2,1976,"Sheffield Olympic Legacy Park, Sheffield, England",Marcus Griffiths
 2023,"Sunday, 1st October 2023",0,Sheffield Eagles,42,London Broncos,Play-offs League 2 EPO,648,"Sheffield Olympic Legacy Park, Sheffield, England",James Vella
-2024,"Sunday, 4th February 2024",18,Doncaster,22,Sheffield Eagles,"1895 Cup Group 7, Round 2",Eco-Power Stadium Doncaster England,Referee: Kevin Moore,
+2024,"Sunday, 4th February 2024",18,Doncaster,22,Sheffield Eagles,"1895 Cup Group 7, Round 2",,Eco-Power Stadium Doncaster England,Referee: Kevin Moore
 2024,"Saturday, 10th February 2024",88,Sheffield Eagles,12,Newcastle Thunder,Challenge Cup 3 (128),617,"Sheffield Olympic Legacy Park, Sheffield, England",Denton Arnold
-2024,"Sunday, 18th February 2024",16,Midlands Hurricanes,30,Sheffield Eagles,"1895 Cup Group 7, Round 3",Alexander Stadium Birmingham England,Referee: Michael Smaill,
-2024,"Sunday, 25th February 2024",16,York Knights,32,Sheffield Eagles,Challenge Cup 4 (64),LNER Community Stadium York England,Referee: Liam Rush,
+2024,"Sunday, 18th February 2024",16,Midlands Hurricanes,30,Sheffield Eagles,"1895 Cup Group 7, Round 3",,Alexander Stadium Birmingham England,Referee: Michael Smaill
+2024,"Sunday, 25th February 2024",16,York Knights,32,Sheffield Eagles,Challenge Cup 4 (64),,LNER Community Stadium York England,Referee: Liam Rush
 2024,"Sunday, 3rd March 2024",26,Sheffield Eagles,10,Batley Bulldogs,1895 Cup Quarter Final,727,"Sheffield Olympic Legacy Park, Sheffield, England",Marcus Griffiths
 2024,"Saturday, 9th March 2024",12,Swinton Lions,14,Sheffield Eagles,Challenge Cup 5 (32),412,"Heywood Road, Sale, England",Marcus Griffiths
 2024,"Friday, 15th March 2024",24,Sheffield Eagles,22,Toulouse Olympique,League 2,794,"Sheffield Olympic Legacy Park, Sheffield, England",Michael Smaill
